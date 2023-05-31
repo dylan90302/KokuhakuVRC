@@ -1,3 +1,3 @@
 # KokuhakuVRC
-A Vrchat Prefab for @KokuhakuVRC Twitter scrape
+A Vrchat Udon Prefab for @KokuhakuVRC Twitter scrape
 
